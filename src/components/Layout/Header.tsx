@@ -8,7 +8,7 @@ const Header = () => {
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center">
             <Link to="/" className="text-2xl font-bold">
-              <img src="/logo.svg" alt="Chatbase" className="h-8" />
+              
             </Link>
           </div>
           

@@ -25,11 +25,6 @@ const Hero = () => {
         <div className="mt-16 text-center">
           <p className="text-gray-400 mb-8">Trusted by 5000+ businesses</p>
           <div className="flex justify-center items-center space-x-12 opacity-70">
-            <img src="/logos/opal.svg" alt="Opal" className="h-8" />
-            <img src="/logos/siemens.svg" alt="Siemens" className="h-8" />
-            <img src="/logos/postman.svg" alt="Postman" className="h-8" />
-            <img src="/logos/alpian.svg" alt="Alpian" className="h-8" />
-            <img src="/logos/albaraka.svg" alt="AlBaraka" className="h-8" />
           </div>
         </div>
       </div>
